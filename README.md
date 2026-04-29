@@ -20,6 +20,7 @@ $ git config --global user.email "orlandovcj@gmail.com"
 ### Mostra o status do repositório
 
 $ git status
+
 On branch master
 
 No commits yet
